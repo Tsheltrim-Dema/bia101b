@@ -7,7 +7,12 @@
     # ?if above 18, print "You can vote"
     # ?if below 18, print "You canot vote"
 
-# if user can vote
+# get user input
+userInput = ('please type your age:')
+
+#convert user input to numbers
+userAge = int(userInput)
+
 if userAge >= 18:
     print('You can vote')
 else:
