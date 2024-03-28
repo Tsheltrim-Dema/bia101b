@@ -8,7 +8,7 @@ lines = [x.strip() for x in lines] # python list comprehension
 #print(len(lines))
 #print(lines[0])
 #print(lines[1])
-#print(lines[2])
+#print(lines[2]
 
 # ! using array
 # ! Permutations
